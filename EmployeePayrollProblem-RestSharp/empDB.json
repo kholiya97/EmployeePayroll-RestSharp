@@ -29,6 +29,21 @@
       "name": "Saniya Mirza",
       "salary": "75000",
       "id": "6"
+    },
+    {
+      "name": "Ritik",
+      "salary": "50000",
+      "id": "7"
+    },
+    {
+      "name": "Radha",
+      "salary": "65000",
+      "id": "8"
+    },
+    {
+      "name": "Watson",
+      "salary": "120123",
+      "id": "9"
     }
   ]
 }
